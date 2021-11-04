@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miguel369y
 - 👀 I’m interested in ... learning new ideas
 - 🌱 I’m currently learning ... front web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... anything productive
 - 📫 How to reach me ... kihiumichael369@gmail.com
 
 <!---
